@@ -1,0 +1,22 @@
+id,gender,age,hypertension,heart_disease,ever_married,work_type,residence_type,avg_glucose_level,bmi,smoking_status
+9046,Male,41,0,0,Yes,Private,Urban,90.0,23.0,never smoked
+1,Male,42,0,0,Yes,Private,Urban,99.00000000000001,25.3,never smoked
+2,Male,43,0,0,Yes,Private,Urban,108.90000000000002,27.830000000000002,never smoked
+3,Male,44,0,0,Yes,Private,Urban,119.79000000000003,30.613000000000003,never smoked
+4,Male,45,0,0,Yes,Private,Urban,131.76900000000006,33.67430000000001,never smoked
+5,Male,46,0,0,Yes,Private,Urban,144.94590000000008,37.041730000000015,never smoked
+6,Male,47,0,0,Yes,Private,Urban,159.4404900000001,40.74590300000002,never smoked
+7,Male,48,0,0,Yes,Private,Urban,175.38453900000013,44.820493300000024,never smoked
+8,Male,49,0,0,Yes,Private,Urban,192.92299290000017,49.30254263000003,never smoked
+9,Male,50,0,0,Yes,Private,Urban,212.2152921900002,54.23279689300004,never smoked
+10,Male,51,0,0,Yes,Private,Urban,233.43682140900026,59.65607658230005,never smoked
+11,Male,52,0,0,Yes,Private,Urban,256.7805035499003,65.62168424053006,never smoked
+12,Male,53,0,0,Yes,Private,Urban,282.4585539048903,72.18385266458307,never smoked
+13,Male,54,0,0,Yes,Private,Urban,310.7044092953794,79.40223793104138,never smoked
+14,Male,55,0,0,Yes,Private,Urban,341.7748502249173,87.34246172414552,never smoked
+15,Male,56,0,0,Yes,Private,Urban,375.95233524740905,96.07670789656008,never smoked
+16,Male,57,0,0,Yes,Private,Urban,413.54756877215,105.68437868621609,never smoked
+17,Male,58,0,0,Yes,Private,Urban,454.902325649365,116.25281655483771,never smoked
+18,Male,59,0,0,Yes,Private,Urban,500.3925582143016,127.87809821032148,never smoked
+19,Male,60,0,0,Yes,Private,Urban,550.4318140357318,140.66590803135364,never smoked
+20,Male,61,0,0,Yes,Private,Urban,605.4749954393051,154.732498834489,never smoked
