@@ -1,0 +1,2 @@
+id,gender,age,hypertension,heart_disease,ever_married,work_type,residence_type,avg_glucose_level,bmi,smoking_status
+9046,Male,41,0,0,Yes,Private,Urban,90.0,23.0,never smoked
